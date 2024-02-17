@@ -1,0 +1,21 @@
+# Rust
+target/
+Cargo.lock
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*/.exe
+*/.exe~
+*/.dll
+*/.so
+*/.dylib
+/vendor/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
